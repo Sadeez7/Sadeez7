@@ -1,5 +1,15 @@
 ## Hi there 👋
+#Hello Everyone
 
+My name is Shandy Putraniar Budianto<br>
+
+I am a student in State Financial Polytechnic STAN<br>
+
+My major is Public Asset Management<br>
+
+Currently i am focusing in Pijak Scholarship Program by Dicoding x IBM<br>
+
+Follow me on LinkedIn www.linkedin.com/in/shandyniar!
 <!--
 **Sadeez7/Sadeez7** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
